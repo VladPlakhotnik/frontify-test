@@ -19,6 +19,7 @@ A content block that allows the user to see the contrast ratio between two brand
 -   The colored blocks were made via div because I didn't find an element similar to it in the documentation and in the block from frontify
 -   The color controller was also not found
 -   I didn't understand how to use settings like WCAG and Targets
+-   I didn't deploy it because there were problems with my account, I wrote to support, but they couldn't solve it for a whole day
 
 ## Feedback
 
