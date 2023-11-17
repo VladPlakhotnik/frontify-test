@@ -1,6 +1,6 @@
 # Frontify custom block
 
-Use brand SDK to create content block in frontify
+A content block that allows the user to see the contrast ratio between two brand colors and learn the WCAG compliance level.
 
 ## WCAG
 
@@ -16,9 +16,9 @@ Use brand SDK to create content block in frontify
 
 ## Additional information about the project
 
-- The colored blocks were made via div because I didn't find an element similar to it in the documentation and in the block from frontify
-- The color controller was also not found
-- I didn't understand how to use settings like WCAG and Targets
+-   The colored blocks were made via div because I didn't find an element similar to it in the documentation and in the block from frontify
+-   The color controller was also not found
+-   I didn't understand how to use settings like WCAG and Targets
 
 ## Feedback
 

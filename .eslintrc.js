@@ -5,4 +5,7 @@ module.exports = {
             version: 'detect',
         },
     },
-};
+    rules: {
+        semi: 0,
+    },
+}
